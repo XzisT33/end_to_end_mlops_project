@@ -64,9 +64,3 @@ This project follows a structured workflow to streamline the MLOps process:
 - **Best Model**: Random Forest with mean imputation.
 - **Optimal Hyperparameters**: `n_estimators=1000`, `max_depth=None`.
 
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
-
-
---------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
