@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = D:\MLOps\Data_Thinkers_MLOPS\dvc
