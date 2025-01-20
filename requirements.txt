@@ -283,7 +283,7 @@ optuna==4.1.0
 orjson==3.10.12
 overrides==7.7.0
 packaging @ file:///C:/b/abs_c3vlh0z4jw/croot/packaging_1720101866539/work
-pandas @ file:///C:/b/abs_9aotnvvz16/croot/pandas_1718308978393/work/dist/pandas-2.2.2-cp312-cp312-win_amd64.whl#sha256=93959056e02e9855025011adb18394296a58d49e72b9342733b7693a5267c790
+pandas
 pandocfilters==1.5.1
 panel @ file:///C:/b/abs_fas2lxv_bs/croot/panel_1728066386547/work
 param @ file:///C:/b/abs_b4yato0oux/croot/param_1719347953072/work
